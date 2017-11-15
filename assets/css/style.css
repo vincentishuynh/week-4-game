@@ -1,0 +1,56 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	background-color: orange;
+	max-width: 250px;
+	padding: 20px;
+}
+p{
+	background-color: beige;
+	color:green;
+}
+button{
+	cursor: pointer;
+
+}
+img{
+	height: 100px;
+	width: 100px;
+}
+div{
+	margin-bottom: 20px;
+}
+#randomnumber{
+	background-color: lightgreen;
+	padding:20px;
+	font-size: 40px;
+	width: 300px;
+	float:left;
+	margin-right: 20px;
+	
+}
+#winorlosebox{
+	background-color: blue;
+	color:white;
+	width: 200px;
+	padding: 20px;
+	float: left;
+}
+#text{
+	background-color: teal;
+	color:white;
+	margin-top: 20px;
+	width:240px;
+}
+#userscore{
+	background-color: teal;
+	color:white;
+	font-size: 40px;
+	margin-top: 5px;
+	padding:20px;
+	width:200px;
+}
+#wrapper{
+	max-width: 600px
+}
